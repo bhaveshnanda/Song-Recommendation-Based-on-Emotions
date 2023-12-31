@@ -3,3 +3,10 @@ streamlit-webrtc==0.47.1
 av==11.0.0
 opencv-contrib-python==4.8.1.78
 opencv-python==4.7.0.72
+numpy==1.24.3
+mediapipe==0.10.9
+keras==2.15.0
+keras-models==0.0.7
+webcolors==1.13
+webencodings==0.5.1
+websocket-client==1.6.0
