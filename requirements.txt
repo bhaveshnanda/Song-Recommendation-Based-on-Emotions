@@ -45,6 +45,7 @@ keras==2.15.0
 keras-models==0.0.7
 kiwisolver==1.4.5
 langcodes==3.3.0
+libgl1-mesa-glx  # Add libgl1-mesa-glx for OpenGL support
 Markdown==3.5.2
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
@@ -57,8 +58,7 @@ numpy==1.24.3
 oauthlib==3.2.2
 opencv-contrib-python==4.8.1.78
 opencv-python==4.7.0.72
-
-opencv-python-headless
+opencv-python-headless==4.9.0.80
 opt-einsum==3.3.0
 packaging==23.2
 pandas==2.2.0
@@ -96,7 +96,7 @@ spacy==3.7.2
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
-streamlit
+streamlit==1.24.0
 streamlit-webrtc==0.47.1
 tenacity==8.2.3
 tensorboard==2.15.1
