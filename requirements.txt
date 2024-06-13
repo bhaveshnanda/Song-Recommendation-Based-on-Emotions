@@ -45,7 +45,8 @@ keras==2.15.0
 keras-models==0.0.7
 kiwisolver==1.4.5
 langcodes==3.3.0
-
+libgl1-mesa-glx
+libglib2.0-0
 Markdown==3.5.2
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
